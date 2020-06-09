@@ -1,0 +1,85 @@
+/* Tag Selector */
+body {
+  background-image: url(https://wonderfulengineering.com/wp-content/uploads/2014/06/ubuntu-wallpapers-27.png);
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+a {
+  color: white;
+  text-decoration: none;
+
+}
+p{
+  color: white;
+}
+
+li {
+  color: white;
+}
+
+/* class Selector */
+.graduate{
+  padding-right: 50px;
+  color: white;
+}
+
+.award{
+  color: white;
+}
+
+.degree{
+  color: white;
+}
+
+.jobtitle {
+  color: white;
+}
+
+.workplace{
+  color: white;
+}
+
+.workat{
+  color: white;
+}
+
+.period {
+  color: white;
+}
+
+.year {
+  color: white;
+  padding-right: 100px;
+}
+
+.description {
+  color: white;
+  padding-left: 150px;
+  list-style: None;
+}
+
+.mailme {
+  margin: 0px;
+  font-family: system-ui;
+  text-shadow: 5px 0 #232931;
+  font-size: 2rem;
+  color: white;
+}
+
+.callme {
+  margin: 30px;
+  font-family: system-ui;
+  text-shadow: 5px 0 #232931;
+  font-size: 2rem;
+  color: white;
+}
